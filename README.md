@@ -15,12 +15,11 @@ A modern, interactive, desktop-based Hangman game built using **Python** and the
 ---
 
 ## 📸 Screenshots
-
-*(Tip: Add a screenshot or a quick GIF here to make your repository look highly professional!)*
-| Main Menu / Game Start | Game Over / Win State |
-|---|---|
-|
+#Main Menu
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/711b86e6-22bf-471d-9f25-ffa067232658" />
+#Game
 <img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4de39b5-78aa-4b06-8a4d-223e8279fe58" />
+
 
 ---
 
